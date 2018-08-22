@@ -14,8 +14,8 @@ Let us consider the simple pendulum placed in a uniform gravitational field.
 The coordinates of the mass are 
 $$
 	\left\{ 
-	\begin{array}{r @{ \ = \ } l}
-	x & \ell\sin\phi \\
+	\begin{array}{r @{ \\ = \\ } l}
+	x & \ell\sin\phi \\\\
 	y & -\ell\cos\phi 
 	\end{array} \right. 
 $$
@@ -34,11 +34,11 @@ $$
 	
 The relevant derivatives of the Euler-Lagrange equation are
 $$
-	\begin{align*}
-	\frac{\partial L}{\partial \dot{\phi}} &= m\ell^2 \dot{\phi} \\ 
-	\frac{d}{dt} \frac{\partial L}{\partial \dot{\phi}} &= m \ell^2 \ddot{\phi} \\
+	\begin{align\*}
+	\frac{\partial L}{\partial \dot{\phi}} &= m\ell^2 \dot{\phi} \\\\ 
+	\frac{d}{dt} \frac{\partial L}{\partial \dot{\phi}} &= m \ell^2 \ddot{\phi} \\\\
 	\frac{\partial L}{\partial \phi} &= -mg\ell\sin\phi 
-	\end{align*}
+	\end{align\*}
 $$
 such that equation of motion is 
 $$
