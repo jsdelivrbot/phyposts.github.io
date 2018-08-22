@@ -12,13 +12,17 @@ This is a template.
 Let us consider the simple pendulum placed in a uniform gravitational field.
 
 The coordinates of the mass are 
+
 $$
+\begin{equation}
    \left\{ 
    \begin{array}{r @{ \ = \ } l}
    x & \ell\sin\phi \\
    y & -\ell\cos\phi 
    \end{array} \right. 
+\begin{equation}
 $$
+
 such that the kinetic and potential energy are
 $$
    T = \frac{1}{2}m[(\ell\dot{\phi}\cos\phi)^2 + (\ell\dot{\phi}\sin\phi)^2] = \frac{1}{2} m \ell^2 \dot{\phi}^2
