@@ -20,7 +20,7 @@ $$
    x & \ell\sin\phi \\
    y & -\ell\cos\phi 
    \end{array} \right. 
-\begin{equation}
+\end{equation}
 $$
 
 such that the kinetic and potential energy are
