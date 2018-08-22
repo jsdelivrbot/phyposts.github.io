@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simple Pendulum"
-date: 2018-08-22 20:23:00 -0400
+date: 2018-08-22 19:23:00 -0400
 categories: phy
 author: "Bart Simpson"
 meta: "Pendulum"
