@@ -14,13 +14,11 @@ Let us consider the simple pendulum placed in a uniform gravitational field.
 The coordinates of the mass are 
 
 $$
-\begin{equation}
    \left\{ 
    \begin{array}{r l}
    x &= \ell\sin\phi \\
    y &= -\ell\cos\phi 
    \end{array} \right. 
-\end{equation}
 $$
 
 such that the kinetic and potential energy are
@@ -61,7 +59,7 @@ $$
 
 Let's test some inline math $x$, $y$, $x_1$, $y_1$.
 
-Now a inline math with special character: $|\psi\\rangle$, $x'$, $x^*$.
+Now a inline math with special character: $\|\psi\\rangle$, $x'$, $x^\*$.
 
 Test a display math:
 $$
