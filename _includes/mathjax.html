@@ -5,6 +5,10 @@
         autoNumber: "AMS"
       }
     },
+    Macros: {
+      pd: ["{\frac{\partial #1}{\partial #2}}",2],
+      od: ["{\frac{d #1}{d #2}}",2]
+    },
     tex2jax: {
       inlineMath: [ ['$','$'], ['\(', '\)'] ],
       displayMath: [ ['$$','$$'] ],
@@ -12,5 +16,6 @@
     }
   });
 </script>
+
 <!-- Equations using MathJax -->
 <script type="text/javascript" src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
