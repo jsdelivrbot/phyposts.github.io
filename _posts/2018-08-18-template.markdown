@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Template"
+title: "Simple Pendulum"
 date: 2018-08-18 15:28:59 -0400
-categories: misc
+categories: draft
 author: "Bart Simpson"
 meta: "Springfield"
 ---
-
-This is a template.
 
 Let us consider the simple pendulum placed in a uniform gravitational field.
 
