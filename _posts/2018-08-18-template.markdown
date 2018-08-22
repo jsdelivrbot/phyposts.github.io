@@ -44,7 +44,7 @@ The relevant derivatives of the Euler-Lagrange equation are
 
 $$
    \begin{align*}
-   \frac{\partial L}{\partial \dot{\phi}} &= m\ell^2 \dot{\phi} \\
+   \pd{L}{\dot{\phi}} &= m\ell^2 \dot{\phi} \\
    \frac{d}{dt} \frac{\partial L}{\partial \dot{\phi}} &= m \ell^2 \ddot{\phi} \\
    \frac{\partial L}{\partial \phi} &= -mg\ell\sin\phi 
    \end{align*}
