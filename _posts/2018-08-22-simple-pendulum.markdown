@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Simple Pendulum"
-date: 2018-08-18 15:28:59 -0400
+date: 2018-08-22 20:23:00 -0400
 categories: draft
 author: "Bart Simpson"
-meta: "Springfield"
+meta: "Pendulum"
 ---
 
 Let us consider the simple pendulum placed in a uniform gravitational field.
