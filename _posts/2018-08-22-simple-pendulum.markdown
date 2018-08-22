@@ -2,7 +2,7 @@
 layout: post
 title: "Simple Pendulum"
 date: 2018-08-22 20:23:00 -0400
-categories: draft
+categories: phy
 author: "Bart Simpson"
 meta: "Pendulum"
 ---
