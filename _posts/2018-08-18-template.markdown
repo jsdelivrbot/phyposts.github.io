@@ -16,8 +16,8 @@ The coordinates of the mass are
 $$
    \left\{ 
    \begin{array}{r c l}
-   x &=& \ell\sin\phi \\
-   y &=& -\ell\cos\phi 
+   x & \hspace{-1ex} =& \hspace{-1ex} \ell\sin\phi \\
+   y & \hspace{-1ex} =& \hspace{-1ex} -\ell\cos\phi 
    \end{array} \right. 
 $$
 
