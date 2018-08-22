@@ -13,41 +13,41 @@ Let us consider the simple pendulum placed in a uniform gravitational field.
 
 The coordinates of the mass are 
 $$
-	\left\{ 
-	\begin{array}{r @{ \ = \ } l}
-	x & \ell\sin\phi \\
-	y & -\ell\cos\phi 
-	\end{array} \right. 
+   \left\{ 
+   \begin{array}{r @{ \ = \ } l}
+   x & \ell\sin\phi \\
+   y & -\ell\cos\phi 
+   \end{array} \right. 
 $$
 such that the kinetic and potential energy are
 $$
-	T = \frac{1}{2}m[(\ell\dot{\phi}\cos\phi)^2 + (\ell\dot{\phi}\sin\phi)^2] = \frac{1}{2} m \ell^2 \dot{\phi}^2
+   T = \frac{1}{2}m[(\ell\dot{\phi}\cos\phi)^2 + (\ell\dot{\phi}\sin\phi)^2] = \frac{1}{2} m \ell^2 \dot{\phi}^2
 $$
 and 
 $$
-	U = -mg\ell\cos\phi , 
+   U = -mg\ell\cos\phi , 
 $$
 respectively. Hence the Lagrangian of the system is 
 $$
-	L = \frac{1}{2} m \ell^2 \dot{\phi}^2 + mg\ell\cos\phi .
+   L = \frac{1}{2} m \ell^2 \dot{\phi}^2 + mg\ell\cos\phi .
 $$
 	
 The relevant derivatives of the Euler-Lagrange equation are
 $$
-	\begin{align*}
-	\frac{\partial L}{\partial \dot{\phi}} &= m\ell^2 \dot{\phi} \\
-	\frac{d}{dt} \frac{\partial L}{\partial \dot{\phi}} &= m \ell^2 \ddot{\phi} \\
-	\frac{\partial L}{\partial \phi} &= -mg\ell\sin\phi 
-	\end{align*}
+   \begin{align*}
+   \frac{\partial L}{\partial \dot{\phi}} &= m\ell^2 \dot{\phi} \\
+   \frac{d}{dt} \frac{\partial L}{\partial \dot{\phi}} &= m \ell^2 \ddot{\phi} \\
+   \frac{\partial L}{\partial \phi} &= -mg\ell\sin\phi 
+   \end{align*}
 $$
 such that equation of motion is 
 $$
-	\ell\ddot{\phi} + g \sin\phi = 0 .
+   \ell\ddot{\phi} + g \sin\phi = 0 .
 $$
 
 Let's test some inline math $x$, $y$, $x_1$, $y_1$.
 
-Now a inline math with special character: $|\psi\rangle$, $x'$, $x^\*$.
+Now a inline math with special character: $|\psi\\rangle$, $x'$, $x^*$.
 
 Test a display math:
 $$
@@ -72,23 +72,23 @@ Is it O.K.?
 
 And test a display math without equaltion number:
 $$
-  \begin{align\*}
-    |\psi_1\rangle &= a|0\rangle + b|1\rangle \\\\
+  \begin{align*}
+    |\psi_1\rangle &= a|0\rangle + b|1\rangle \\
     |\psi_2\rangle &= c|0\rangle + d|1\rangle
-  \end{align\*}
+  \end{align*}
 $$
 Is it O.K.?
 
 Test a display math with equation number:
 \begin{align}
-    |\psi_1\rangle &= a|0\rangle + b|1\rangle \\\\
+    |\psi_1\rangle &= a|0\rangle + b|1\rangle \\
     |\psi_2\rangle &= c|0\rangle + d|1\rangle
 \end{align}
 Is it O.K.?
 
 And test a display math without equaltion number:
-\begin{align\*}
-    |\psi_1\rangle &= a|0\rangle + b|1\rangle \\\\
+\begin{align*}
+    |\psi_1\rangle &= a|0\rangle + b|1\rangle \\
     |\psi_2\rangle &= c|0\rangle + d|1\rangle
-\end{align\*}
+\end{align*}
 Is it O.K.?
