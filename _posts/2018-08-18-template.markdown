@@ -34,9 +34,9 @@ $$`
 	
 The relevant derivatives of the Euler-Lagrange equation are
 `$$
-\pd{L}{\dot{\phi}} &= m\ell^2 \dot{\phi} \\ 
-\od{}{t} \pd{L}{\dot{\phi}} &= m \ell^2 \ddot{\phi} \\
-\pd{L}{\phi} &= -mg\ell\sin\phi 
+\frac{\partial L}{\partial \dot{\phi}} &= m\ell^2 \dot{\phi} \\ 
+\frac{d}{dt} \frac{\partial L}{\partial \dot{\phi}} &= m \ell^2 \ddot{\phi} \\
+\frac{\partial L}{\partial \phi} &= -mg\ell\sin\phi 
 $$`
 such that equation of motion is 
 `$$
