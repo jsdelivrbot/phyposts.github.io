@@ -46,7 +46,7 @@ $$
 $$
 	
 
-The relevant derivatives of the Euler-Lagrange equation are
+The relevant derivatives to the Euler-Lagrange equation are
 
 $$
 \begin{align}
