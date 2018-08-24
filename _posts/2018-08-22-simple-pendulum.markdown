@@ -9,7 +9,7 @@ meta: "Pendulum"
 
 Let us consider the simple pendulum placed in a uniform gravitational field.
 
-{% include images/simple-pendulum.svg %}
+<div style="text-align:center;"> {% include images/simple-pendulum.svg %} </div>
 
 ![image alt <>]({{ "/assets/Images/simple-pendulum.svg" }}){ :width="400px" }
 
