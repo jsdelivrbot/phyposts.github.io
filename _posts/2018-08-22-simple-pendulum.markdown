@@ -9,11 +9,7 @@ meta: "Pendulum"
 
 Let us consider the simple pendulum placed in a uniform gravitational field.
 
-<li><a>
-	<svg class="svg-icon">
-		<use xlink:href="{{ '/assets/Images/simple-pendulum.svg#github' | relative_url }}"></use>
-	</svg>
-</a></li>
+{% assets Images/simple-pendulum.svg %}
 
 The coordinates of the mass are 
 
