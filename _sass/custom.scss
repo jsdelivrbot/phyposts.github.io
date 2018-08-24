@@ -24,13 +24,18 @@ a {
   }
 }
 
-img[src*='#left'] { 
-    float: left;
+img[alt$=">"] {
+  float:right;
 }
-img[src*='#right'] { 
-    float: right;
+
+img[alt$="<"] {
+  float:left;
 }
-img[src*='#center'] { 
-    display: block; 
-    margin: auto; 
+
+img[alt$="<>"] {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    float: none!important;
 }
