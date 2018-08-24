@@ -11,7 +11,7 @@ Let us consider the simple pendulum placed in a uniform gravitational field.
 
 {% include images/simple-pendulum.svg %}
 
-![My helpful screenshot]({{ "/assets/Images/simple-pendulum.svg#center" | absolute_url }})
+![image alt <>]({{ "/assets/Images/simple-pendulum.svg" | absolute_url }})
 
 The coordinates of the mass are 
 
