@@ -9,7 +9,8 @@ meta: "Pendulum"
 
 Let us consider the simple pendulum placed in a uniform gravitational field.
 
-{% assets Images/simple-pendulum.svg %}
+{% include images/simple-pendulum.svg %}
+
 
 The coordinates of the mass are 
 
